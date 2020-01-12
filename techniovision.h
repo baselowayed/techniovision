@@ -1,6 +1,3 @@
-//
-// Created by ameeraam on 3/22/2019.
-//
 
 #ifndef HW2_TECHNIOVISION_H
 #define HW2_TECHNIOVISION_H
